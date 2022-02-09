@@ -19,3 +19,7 @@ Press **Build** then press **Play** to start the calculation of the minimum span
 
 The variable named **vertices** is just the list of vertices that are on the graph.<br>
 The variable named **edges** contains 3 things: Edge 1, Edge 2 and the Weight of the edge<br>
+
+## Built with
+
+-   JavaScript
